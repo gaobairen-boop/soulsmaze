@@ -1,0 +1,3 @@
+<linker>
+  <!-- 保留清單改由 Util.cs 的 KeepTypes 處理；這裡刻意留空 -->
+</linker>
